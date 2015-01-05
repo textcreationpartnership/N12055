@@ -113,14 +113,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:015213_0000_0F9990941D1D9918"/>
-            <pb facs="tcp:015213_0001_0F999094E0015430"/>
+            <pb facs="unknown:015213_0000_0F9990941D1D9918"/>
+            <pb facs="unknown:015213_0001_0F999094E0015430"/>
             <p>THE BLOCKHEADS: OR, THE AFFRIGHTED OFFICERS.</p>
             <p>A FARCE.</p>
             <p>BOSTON: Printed in QUEEN-STREET. M, DCC, LXXVI.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:015213_0002_0F999095AF7F0308" rendition="simple:additions"/>
+            <pb facs="unknown:015213_0002_0F999095AF7F0308"
+                rendition="simple:additions"/>
             <head>Dramatis Personae.</head>
             <list>
                <label>Captain Bashaw,</label>
@@ -190,7 +191,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:015213_0003_0F99909674A01390"/>
+            <pb facs="unknown:015213_0003_0F99909674A01390"/>
             <head>THE BLOCKHEADS.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -208,7 +209,7 @@
                   <sp>
                      <speaker>Capt. Bash.</speaker>
                      <p>Gentlemen, it will not do to set groaning here; let us determine upon some plan quickly to be done, otherwise I shall bid you farewell, and you may
-<pb n="4" facs="tcp:015213_0004_0F99909731D9A860"/>
+<pb n="4" facs="unknown:015213_0004_0F99909731D9A860"/>
 follow after as well as you are able.—You find every night brings them nearer and nearer; they raise a hill and for<g ref="char:EOLhyphen"/>tify it in 6 hours —I expect soon to see a fortification grow out of the <hi>channel,</hi> and our <hi>ships of war</hi> to be blown up by some damn'd machine.—Such devils are capable of any thing; the power of miracles is put into their hands, and they improve the patent to admiration.—You must do something to dispossess them of those fortifications, otherwise we shall not only be starv'd, but absolutely murder'd.</p>
                   </sp>
                   <sp>
@@ -223,7 +224,7 @@ follow after as well as you are able.—You find every night brings them nearer 
                      <speaker>L—d Dap.</speaker>
                      <p>Curss'd cruel fate! that we should thus be pen'd up.—<hi>Churchill</hi>'s description of <hi>Scotland</hi> is but a shadow to it;—if that great genius was now alive, we should soon have a new edition with amendments.—He represents their <hi>flies and spiders,</hi> &amp;c. as <hi>starving,</hi> but here they are absolutely starv'd—poor innocent insects, I forgive ye your former tormenting of my legs; ye suck'd 'till you could find no nourishment, and then fell at my feet and died.—Thousands have lain gasping within the small circle of my chair; their case was truly deplorable—I felt their state by experience.—My case is somewhat parallel to the <hi>prodigal son.</hi>—I may well adopt his words,
 <q>how
-<pb n="5" facs="tcp:015213_0005_0F999097D9D76AE0"/>
+<pb n="5" facs="unknown:015213_0005_0F999097D9D76AE0"/>
 many hired servants of my father's, have bread enough and to spare, while I perish with hunger.</q>
                      </p>
                   </sp>
@@ -247,7 +248,7 @@ many hired servants of my father's, have bread enough and to spare, while I peri
                   <sp>
                      <speaker>Sur.</speaker>
                      <p>Nothing can be more wretched than our state,— <hi>vagabonds</hi> and <hi>outcasts</hi> in the world!—here we are,— <hi>friends we have none,</hi>—we fled here for protection, but how are we disappointed!—Those on whom we depended, are as miserable as ourselves!—we have been cajol'd in<g ref="char:EOLhyphen"/>to all this by that curss'd <hi>H—n,</hi>—he pleas'd us with <hi>pensions, posts of honor, and profit,</hi> but the villain has fled, and left us to shirk for ourselves.—My dwellings I have forsaken, my family are left to feed on the charity of friends, <hi>if they can find any</hi>; while I, poor wretch, have thrown myself upon the mercy of those who are <hi>un<g ref="char:EOLhyphen"/>able</hi> to help me.—My <hi>money</hi> I have let out on <hi>govern<g ref="char:EOLhyphen"/>ment security</hi>—and poor security too, I am afraid;—from
-<pb n="6" facs="tcp:015213_0006_0F999098B4841B68"/>
+<pb n="6" facs="unknown:015213_0006_0F999098B4841B68"/>
                         <hi>affluence and splendor,</hi> I am reduc'd to <hi>wretchedness and misery,</hi> and skulk about the streets like a dog that has lost one ear.—Oh curss'd ambition! much better had it been if I had stay'd among my countrymen, and partook quietly of the produce of my farm.—Why need I have medled in politicks, or burnt my fingers dabbling in this sea of fire —My tenants and my oxen would have been much more agreeable companions than these herd of <hi>stalking poltroons,</hi> swaggering with their swords at their a— and afraid to draw them from the scabbard.</p>
                   </sp>
                   <sp>
@@ -257,7 +258,7 @@ many hired servants of my father's, have bread enough and to spare, while I peri
                   <sp>
                      <speaker>Sur.</speaker>
                      <p>Our pride is our only cordial—we have nothing else to feed on;—d-m'd poor nourishment!—we have been long fed on the sumptuous dish of <hi>expectation of re<g ref="char:EOLhyphen"/>lief,</hi> but alass! we had so keen an appetite for that, we quickly devour'd it;—the general has no further supply left him, and we are now left to famish till a fresh supply comes.— We have fled here as <hi>friends to government,</hi> but how are we treated?—<hi>We are despised, our wives ra<g ref="char:EOLhyphen"/>vag'd, and our daughters debauch'd;—honor</hi> or <hi>profit we
-<pb n="7" facs="tcp:015213_0007_0F999099593C1158"/>
+<pb n="7" facs="unknown:015213_0007_0F999099593C1158"/>
 have none—abuse</hi> and <hi>ruin</hi> we have our ample shares of. —Much happier had we been, if instead of <hi>bowing</hi> and <hi>cringing</hi> to the great, we had minded the concerns of our farms; and instead of calculating the <hi>revenue</hi> of the nation, we had considered the income of our own stocks.</p>
                   </sp>
                   <sp>
@@ -282,7 +283,7 @@ have none—abuse</hi> and <hi>ruin</hi> we have our ample shares of. —Much ha
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="8" facs="tcp:015213_0008_0F99909A315EDEC8"/>
+               <pb n="8" facs="unknown:015213_0008_0F99909A315EDEC8"/>
                <head>ACT II.</head>
                <div type="scene">
                   <head>A ROOM. TABITHA and DORSA.</head>
@@ -324,7 +325,7 @@ have none—abuse</hi> and <hi>ruin</hi> we have our ample shares of. —Much ha
                      <speaker>Tab.</speaker>
                      <p>
                         <hi>Inability,</hi> what do you mean? I hope he is not wanting in <hi>any thing</hi> to render the marriage state agreable. —If he is, I shall quickly throw him out of window, and
-<pb n="9" facs="tcp:015213_0009_0F99909ADAE50668"/>
+<pb n="9" facs="unknown:015213_0009_0F99909ADAE50668"/>
 appoint a better person in his room—its true, since you hint this, it makes me somewhat suspicious, he looks like a <hi>baboon</hi> upon stilts, and I begin to be fearful of his abili<g ref="char:EOLhyphen"/>ties—however, he will serve for a <hi>cully</hi> to fleece for my indulgencies in <hi>dress and fashion</hi>
                      </p>
                   </sp>
@@ -348,7 +349,7 @@ appoint a better person in his room—its true, since you hint this, it makes me
                   <sp>
                      <speaker>Sim.</speaker>
                      <p>You will be more sick before it is over—I wist I had now a good belly-full of what you mention; I would willingly bear the <hi>ridicule,</hi> as to the manner of it's <hi>coming out.</hi>—I believe the most delicate lady among them<g ref="char:punc">▪</g> would be glad of such stable contents, and risque the hazard of it's appearing again to the world—however<g ref="char:punc">▪</g> my dear, I have no notion of being merry—I have more serious affairs to think of.—I must acquaint you, that I am <hi>absolutely ruin'd</hi>—my whole fortune is fell either into the hands of the <hi>rebels</hi> without, or lent upon the se<g ref="char:EOLhyphen"/>curity of <hi>chance,</hi> to those within—my resources are en<g ref="char:EOLhyphen"/>tirely exhausted—I have pleas'd myself with some ap<g ref="char:EOLhyphen"/>pointment in office, but I find that will fail—we have so
-<pb n="10" facs="tcp:015213_0010_0F99909B9C1915B0"/>
+<pb n="10" facs="unknown:015213_0010_0F99909B9C1915B0"/>
 many <hi>needy fellows</hi> among us, that one must make interest to be even <hi>groom</hi> to the light horse.—What to do I know not.</p>
                   </sp>
                   <sp>
@@ -364,7 +365,7 @@ many <hi>needy fellows</hi> among us, that one must make interest to be even <hi
                      <p>Poor foolish woman! how you feast on pride! is it possible you are in earnest?—Can so much folly dwell in women?—I always thought women to be but one degree above a she ass, but you seem many degrees below—you may pretend to vaunt in all these prudish airs, but depend on it, you shall get no support from me. —As to your daughter, she may expect to incur my dis<g ref="char:EOLhyphen"/>pleasure, if she goes romping among these ladies of qua<g ref="char:EOLhyphen"/>lity.—As to rich <hi>upstarts,</hi> I had rather marry her to a <hi>good monkey,</hi> than to any figure of a man in the garrison. —What signifies putting a young girl to bed with a poor famish'd image!</p>
                   </sp>
                   <sp>
-                     <pb n="11" facs="tcp:015213_0011_0F99909C5C13E1A8"/>
+                     <pb n="11" facs="unknown:015213_0011_0F99909C5C13E1A8"/>
                      <speaker>Wife.</speaker>
                      <p>You old fool, do you think I am to be frightned out of my designs?—No, I will learn you to treat your wife with a little more <hi>good manners</hi> —I wish you would become a little more polish'd, and go into the company of <hi>gentlemen</hi> and <hi>ladies</hi>—You would there hear nothing of <hi>she asses,</hi> and such filthy <hi>farm terms.</hi>—My <hi>dear,</hi> and my <hi>honey,</hi> are the terms there made use of—thousand pretty things which I never before heard of, are whisper'd round—they can talk to one another with their <hi>eyes,</hi> and you can almost guess what they mean—none of your <hi>coarse language</hi> defiles their conversation—nothing but pure refinement.—I would not for the world go back to my former habitation, to hear the grunting of <hi>hogs</hi>— I should dye with the spleen. As to your not supplying me, I am no way concern'd about it; if you won't ano<g ref="char:EOLhyphen"/>ther will, and you may expect a pair of horns grow out of your head as large as your old bulls.</p>
                   </sp>
@@ -383,7 +384,7 @@ many <hi>needy fellows</hi> among us, that one must make interest to be even <hi
                   <sp>
                      <speaker>Tab.</speaker>
                      <p>My papa, Sir, remains as determined as ever— he seems tir'd with being <hi>confin'd</hi> within the garrison—he had rather be among his farm neighbours, which makes him so fretful with all of your party —I do not think it possible ever to get his consent, but such a trifle shall ne<g ref="char:EOLhyphen"/>ver baulk my inclination—I shall throw off all reserve,
-<pb n="12" facs="tcp:015213_0012_0F99909E5010D2D0"/>
+<pb n="12" facs="unknown:015213_0012_0F99909E5010D2D0"/>
 and put myself intirely under your protection—shall quit the family, and depend on your honor.</p>
                   </sp>
                   <sp>
@@ -426,7 +427,7 @@ and put myself intirely under your protection—shall quit the family, and depen
                      <speaker>Shal.</speaker>
                      <p>Why will you desire us to go to battle?—are you for seeing another <hi>Bunker-Hill</hi> frolic?—those devils would glory to have us come out to them, it would be <hi>sport</hi> to the dogs, to see us breaking our shins, tumbling
 <pb n="13"
-                            facs="tcp:015213_0013_0F99909EDC453E60"
+                            facs="unknown:015213_0013_0F99909EDC453E60"
                             rendition="simple:additions"/>
 over each other.—I esteem my life beyond my honor, and am not for throwing it away for the diversion of a parcel of <hi>yankees</hi>—If we cannot hold the garrison by <hi>keeping in,</hi> for God's sake, let's beat a <hi>retreat</hi>; but the LORD knows where; however, I had rather heave myself upon the mercy of the sea, than be taken their prisoner: —Who but a <hi>mad man</hi> would trust himself out of these entrenchments? it is certain death.—I am for fighting, where there is <hi>some prospect</hi> of coming off clear; but here venture yourself out, and I would not insure you for 100 <hi>per cent.</hi>—d—n the devils, they excel their very fa<g ref="char:EOLhyphen"/>ther <hi>Belzebub</hi> for fighting.—I had rather engage with a squadron just arrived from the <hi>lower-regions,</hi> than with those curst fellows on <hi>yonder hill.</hi>
                      </p>
@@ -441,7 +442,7 @@ over each other.—I esteem my life beyond my honor, and am not for throwing it 
                      </p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:015213_0014_0F9990A58E279C88"/>
+                     <pb n="14" facs="unknown:015213_0014_0F9990A58E279C88"/>
                      <speaker>Shal.</speaker>
                      <p>If I had a <hi>scolding wife,</hi> perhaps I would venture myself within a hundred yards of those hills; but while I have not, you shall find me <hi>far enough</hi> from them; and I don't care <hi>how much farther.</hi>—Our <hi>ministry</hi> think sol<g ref="char:EOLhyphen"/>diers were made to be <hi>fir'd</hi> at as sport, but I hope on this occasion they will find themselves deceived,—for my part, I am determined to secure a place of <hi>safety;</hi>—if any have a mind to <hi>go out,</hi> let them, they have my good wishes for their return; but if they <hi>regard</hi> their lives, I advise all, and every one to keep <hi>within</hi> the entrenchments—I would rather sh—t my breeches than go without these forts to ease myself.</p>
                   </sp>
@@ -459,7 +460,7 @@ over each other.—I esteem my life beyond my honor, and am not for throwing it 
                   <sp>
                      <speaker>Sur.</speaker>
                      <p>A <hi>retreat,</hi> is it possible!—shall the <hi>British troops</hi> ever suffer such <hi>disgrace,</hi> as to flee from a parcel of <hi>yan<g ref="char:EOLhyphen"/>kees</hi>?—we have been fed up with high notions of the <hi>power</hi> and <hi>resolution</hi> of these troops—but I find, when the matter becomes <hi>serious,</hi> they are as terrify'd as <hi>old women</hi>— the <hi>General</hi> has made a <hi>sham attempt</hi> to dispossess them of their fortifications, but has withdrawn them with the pre<g ref="char:EOLhyphen"/>tence of the <hi>wind</hi> being two boisterous—what a pretty hobble are we in, to be <hi>drove</hi> away from our only place
-<pb n="15" facs="tcp:015213_0015_0F9990A6E9D7CEA8"/>
+<pb n="15" facs="unknown:015213_0015_0F9990A6E9D7CEA8"/>
 of security—but I find our <hi>strong holds</hi> are become meer shadows of safety.— A very agreeable employ, for gentle<g ref="char:EOLhyphen"/>men to be running after a pack of <hi>cowards,</hi> and what is more miserable to <hi>depend</hi> on them for protection.—If I could once get clear of my present state, you should never find me again to depend on a <hi>broken reed.</hi>
                      </p>
                   </sp>
@@ -479,7 +480,7 @@ of security—but I find our <hi>strong holds</hi> are become meer shadows of sa
                   <sp>
                      <speaker>Brig. Paunch.</speaker>
                      <p>Gentlemen, we have just received or<g ref="char:EOLhyphen"/>ders from the General to prepare speedily for a retreat, the garrison is all in alarm, every one is driving <hi>helter
-<pb n="16" facs="tcp:015213_0016_0F9990A9A443A930"/>
+<pb n="16" facs="unknown:015213_0016_0F9990A9A443A930"/>
 skelter</hi>—you must be careful how you walk the streets otherways you will <hi>break your</hi> shins<g ref="char:punc">▪</g> or perhaps your <hi>necks</hi> in the general confusion—if I was not so <hi>intimately con<g ref="char:EOLhyphen"/>vinc'd,</hi> the sight would be the most diverting that ever I beheld—but our circumstances will not admit of <hi>specula<g ref="char:EOLhyphen"/>tion,</hi> let us be gone, for the <hi>rebels are just upon us.</hi>
                      </p>
                   </sp>
@@ -495,7 +496,7 @@ skelter</hi>—you must be careful how you walk the streets otherways you will <
                   <sp>
                      <speaker>Wife.</speaker>
                      <p>I wonder, my dear, you should complain at go<g ref="char:EOLhyphen"/>ing abroad—I am fond of seeing the world—what signi<g ref="char:EOLhyphen"/>fies always to be pen't up within the smoke of our own chimnies?—why should we not travel like other gentle<g ref="char:EOLhyphen"/>folks, to learn the <hi>manners</hi> and <hi>customs</hi> of other nations? must we always remain as ignorant as our <hi>brown bread</hi> neighbours and know nothing more of the world than what is transacted within our own parish?—for my part I am determined to extend my knowledge, and follow the fleet from one end of the world to the other, rather than remain as ignorant as our <hi>parson's wife.</hi>—The ru<g ref="char:EOLhyphen"/>mour is, that we are going to <hi>Halifax</hi>; a rich, flourish<g ref="char:EOLhyphen"/>ing
-<pb n="17" facs="tcp:015213_0017_0F9990A9DDA3E7E8"/>
+<pb n="17" facs="unknown:015213_0017_0F9990A9DDA3E7E8"/>
                         <hi>populous</hi> city, where nature wantons in all her luxury; where we may enjoy and divert ourselves, without being seaz'd with the <hi>constant alarms</hi> of the devilish yankees— <gap reason="illegible: indecipherable" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> them, I wish they were all under your <hi>cyder press,</hi> and I had the screwing of it.—Rouse up you <hi>old Laza<g ref="char:EOLhyphen"/>rus,</hi> and betake yourself, with your wife and family, aboard the ships; don't you hear the drums <hi>beat the alarm?</hi>
@@ -522,7 +523,7 @@ skelter</hi>—you must be careful how you walk the streets otherways you will <
                   <sp>
                      <speaker>Sol.</speaker>
                      <p>Ha, ha, ha,—yankee doodle forever—I wish <hi>Lord North</hi> was here, to see his brave troops in their pre<g ref="char:EOLhyphen"/>sent plight, running away with their <hi>breeches down</hi>—who can help laughing at what a <hi>tom fool</hi>'s errand we have been sent upon—we were sent here to ransack the coun<g ref="char:EOLhyphen"/>try, and hang up a parcel of leading fellows for the crows to pick, and awe all others into <hi>peace</hi> and <hi>submissi<g ref="char:EOLhyphen"/>on</hi>—instead
-<pb n="18" facs="tcp:015213_0018_0F9990AA9E7800C8"/>
+<pb n="18" facs="unknown:015213_0018_0F9990AA9E7800C8"/>
 of this, in our first attempt we were drove thro' the country, like a <hi>pack</hi> of <hi>jack asses,</hi> nor stop'd run<g ref="char:EOLhyphen"/>ning 'till we had got within <hi>Boston,</hi> where we had been for<g ref="char:EOLhyphen"/>tify'd for six months—here we were confin'd, reduc'd to skeletons, our bones standing sentry thro' our skins—we ventur'd out once more to dispossess them of <hi>Bunker-hill,</hi> we gain'd the ground, but if we are to purchase the whole land of America at so dear a rate, the <hi>Lord have mercy upon us.</hi>—We have receiv'd reinforcements, but they only serv'd to fill up the vacancies made at <hi>Bunker-hill</hi> frolic—large force of <hi>artillery, light horse,</hi> and the devil knows what, have come to our assistance, but what has been our luck? <hi>loss of men,</hi> of <hi>honor,</hi> of <hi>flesh,</hi> and to crown the whole, are now <hi>running away,</hi> as fast as we can scamper.</p>
                   </sp>
                   <sp>
@@ -537,7 +538,7 @@ of this, in our first attempt we were drove thro' the country, like a <hi>pack</
                         <gap reason="illegible: indecipherable" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> driving as if the very devil was after them. Our <hi>ge<g ref="char:EOLhyphen"/>nerals</hi> look as wild as stags, when pursu'd by the hounds; they are startled at every noise; they think the <hi>rebels</hi>
-                        <pb n="19" facs="tcp:015213_0019_0F9990AB71BF5230"/>
+                        <pb n="19" facs="unknown:015213_0019_0F9990AB71BF5230"/>
 are just upon them.—Orders are given for <hi>blocking</hi> up the streets, that the <hi>rebels</hi> may break their shins, if they pur<g ref="char:EOLhyphen"/>sue us—we have also a parcel of <hi>stuff'd images,</hi> looking like devils behind the <hi>pope,</hi> to be fix'd up as <hi>senteries</hi>; a fit emblem of ourselves—<hi>Burgoyne</hi> could not have con<g ref="char:EOLhyphen"/>triv'd a <hi>prettier satyr</hi>—our <hi>ambuseirs</hi> are fill'd with <hi>wood<g ref="char:EOLhyphen"/>en guns</hi>; d—m such <hi>wooden-headed</hi> commanders—to crown the whole, they should have had an effigy with a <hi>barber's block-head,</hi> as <hi>engineer.</hi>—Oh Briton! your dis<g ref="char:EOLhyphen"/>grace makes my very blood dance the hornpipe.—The poor <hi>yankee refugees,</hi> run backwards and forwards, like a parcel of cats let out of a bag—I would give half mm pay, that some droll blade was here to describe the ludri<g ref="char:EOLhyphen"/>cous scenery.</p>
                   </sp>
                   <sp>
@@ -564,7 +565,7 @@ are just upon them.—Orders are given for <hi>blocking</hi> up the streets, tha
       </body>
       <back>
          <div type="prologue">
-            <pb facs="tcp:015213_0020_0F9990AC1E1F9028"/>
+            <pb facs="unknown:015213_0020_0F9990AC1E1F9028"/>
             <head>PROLOGUE.</head>
             <l>YOUR pardon first I crave, for this intrusion,</l>
             <l>The topics' such it looks like a delusion<g ref="char:punc">▪</g>
@@ -587,7 +588,7 @@ are just upon them.—Orders are given for <hi>blocking</hi> up the streets, tha
             <trailer>FINIS</trailer>
          </div>
          <div type="epilogue">
-            <pb facs="tcp:015213_0021_0F9990ACDA1258D0"/>
+            <pb facs="unknown:015213_0021_0F9990ACDA1258D0"/>
             <head>
                <hi>SOLILOQUY,</hi> by way of <hi>EPILOGUE.</hi>
             </head>
